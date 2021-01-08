@@ -112,6 +112,9 @@ p {
     line-height: 1.5;
 }
 
+p:hover{
+    color:#2331f6
+}
 .about {
     text-align: center;
 }
